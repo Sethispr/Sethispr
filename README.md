@@ -1,5 +1,6 @@
 <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>
 <a href="#"><img alt="Cargo" src="https://img.shields.io/badge/-Cargo-000000?style=flat-square&logo=rust&logoColor=white"/></a>
+<a href="#"><img alt="Ratatui" src="https://img.shields.io/badge/-Ratatui-FFA500?style=flat-square&logo=rust&logoColor=white"/></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="#"><img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white"/></a>
 <a href="#"><img alt="Zig" src="https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=black"/></a>
