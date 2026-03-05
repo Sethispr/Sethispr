@@ -8,9 +8,10 @@
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://www.postgresql.org/) [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)](https://redis.io/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)](https://mariadb.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)](https://www.sqlite.org/)
 
+<!--
 <img src="https://github.com/Sethispr/seth-github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/Sethispr/seth-github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 <img src="https://github.com/Sethispr/seth-github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/Sethispr/seth-github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-
+-->
 </div>
